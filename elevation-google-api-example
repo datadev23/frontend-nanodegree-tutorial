@@ -1,0 +1,26 @@
+elevation google api example
+
+https://maps.googleapis.com/maps/api/elevation/json?locations=30.8681,79.0332&key=AIzaSyAg6AJNBhUeSonT-MqKPnr7q2hKXtcRTbo
+
+
+distance matrix 
+https://maps.googleapis.com/maps/api/distancematrix/json?origins=New+York,+NW&destinations=San+Francisco&key=AIzaSyAg6AJNBhUeSonT-MqKPnr7q2hKXtcRTbo
+
+biking Nyew to San Fran
+https://maps.googleapis.com/maps/api/distancematrix/json?mode=bicycling&avoid=highways&origins=New+York,+NW&destinations=San+Francisco&key=AIzaSyAg6AJNBhUeSonT-MqKPnr7q2hKXtcRTbo
+
+how long did she bike for
+https://maps.googleapis.com/maps/api/distancematrix/json?mode=bicycling&avoid=highways&origins=4800+El+Camino+Real+CA&destinations=2465+Latham+Street+Mountain
+
+converted to km
+https://maps.googleapis.com/maps/api/distancematrix/json?hl=us&mode=bicycling&avoid=highways&origins=4800+El+Camino+Real+CA&destinations=2465+Latham+Street+Mountain+View+CA&key=AIzaSyAg6AJNBhUeSonT-MqKPnr7q2hKXtcRTbo
+
+google maps directions api 
+
+https://maps.googleapis.com/maps/api/directions/json?hl=us&avoid=highways&origin=Brooklyn+NY&destination=75+9TH+AVE+New+York+NY&key=AIzaSyAg6AJNBhUeSonT-MqKPnr7q2hKXtcRTbo
+
+google maps directions api 
+
+using transit subway
+
+you can add waypoints do your directions
